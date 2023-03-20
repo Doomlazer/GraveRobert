@@ -2,7 +2,7 @@
 
 A 2d grave robbing simulation written for the Pico-8 fantasy console.
 
-The game can be played in a browser <a href="https://doomlazer.github.io/GraveRobert">here</a>.
+The game can be played in a browser <a href="https://doomlazer.github.io/GraveRobert/index.html">here</a>.
 
 # How to play 
 
